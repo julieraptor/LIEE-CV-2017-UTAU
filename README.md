@@ -25,8 +25,8 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose <b>Ad
 - **Pronouns:** they/them, she/her, he/him (in order of preference)
 - **Ethnicity:** Filipino
 - **Height:** 6'2 (1'88m)
-- **Hair color:** Dark blue, Rainbow audio-spectrum highlights (can change color depending on mood), pink roots
-- **Eye color:** Blue with orange/yellow accent, light yellow pupil (changes shape depending on mood)
+- **Hair color:** Dark purple with light purple accents
+- **Eye color:** Light green, pupil changes shape depending on mood
 
 > One of LIEE's many stage outfits when performing in concerts.<p>
 > LIEE is a singer from the future where idols can use cybernetic augmentations and the help of artificial intelligence to keep making music beyond human limits.
