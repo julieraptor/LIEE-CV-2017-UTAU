@@ -43,7 +43,7 @@ The OTO is by GeneralNuisance.
 
 ### Expressions
 >**NORMAL:** The default voice. 
-<br>>**Suffix:** No suffix.
+<br>**Suffix:** No suffix.
 
 >**FALSETTO:** This voicebank has falsetto.
 <br>**Suffix:** F
@@ -54,11 +54,11 @@ The OTO is by GeneralNuisance.
 >**SOFT:** A soft, whispery tone.
 <br>**Suffix:** S
 
->>**LIGHT:** A gentler neutral tone.
+>**LIGHT:** A gentler neutral tone.
 <br>**Suffix:** L
 
 
-#【NOTES】 
+# Notes
 
 This voicebank has two choices for beginning vowels: "Regular Vowels" and "Asterisk Vowels".
 
@@ -69,7 +69,6 @@ These vowels are [あ][い][う][え][お][ん].
 
 > **Asterisk Vowels:** Provides smoother transitions.
 <br>**Example:** [* あ][* い]
-
 
 
 # 【TERMS OF USE】
