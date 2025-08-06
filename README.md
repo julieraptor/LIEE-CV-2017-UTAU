@@ -1,7 +1,7 @@
 # LIEE CV (2017)
 <i> CV JP UTAU voicebank by julieraptor</i>
 
-Thank you for using **LIEE VOLUME UP!**. If you make a cover with **LIEE VOLUME UP!**, please tag @ChulieChu on Twitter!
+Thank you for using **LIEE CV (2017)**. If you make a cover with **LIEE CV (2017)**, please tag @ChulieChu on Twitter!
 <p>
 To download, navigate to <b>Releases</b> on the right-hand side and choose <b>LIEE CV (2017) v1.0</b>.
 
