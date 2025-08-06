@@ -13,7 +13,7 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose <b>LI
 
 # 【SAMPLE】 
 
-
+https://github.com/user-attachments/assets/4e512591-b916-4f76-a13e-cb3a5d5a2932
 
 # 【NOTES】 
 ### Character Details
